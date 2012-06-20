@@ -44,7 +44,7 @@ abstract class AbstractRenderer
 	 * Indicates whether background must be transparent
 	 * @var boolean
 	 */
-	protected $transparent = true;
+	protected $transparent = false;
 	
 	/**
 	 * Renders the code.
